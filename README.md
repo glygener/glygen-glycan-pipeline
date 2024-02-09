@@ -19,3 +19,4 @@ Updates for 2.4 release:
 3. Added PMID field
 4. Added Notes field
 5. Removed files without GlyTouCan accessions
+6. Added new files: glyconnect_pig.json, glygen_upload.csv
