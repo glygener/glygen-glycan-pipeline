@@ -15,6 +15,7 @@ Updates for 2.5 release:
 ------
 1. Updated UnicarbKB dataset IDs (GLY_000040:Human|GLY_000040:Mouse --> GLY_000040:Human|GLY_000041:Mouse)
 2. Added matrixdb_CORE.tab
+3. Added Pig dataset ID to OGlcNAcAtlas rows
 
 Updates for 2.4 release:
 ------
