@@ -17,8 +17,8 @@ glygen_protein_masterlist.csv,export_files/current/,GlyGen,,,,Reference file for
 glycosites.csv,gptwiki/current/,GPTwiki,GLY_000480:Human,,,
 T_Cell_O-GlcNAc_sites_CWoo_8-23-18.csv,harvard/current/,Harvard,GLY_000142:Human,29351928,,
 glycan_evidence_ncfg.csv,ncfg/current/,NCFG,GLY_000600:None,30745240,,Contains synthesized glycans
-ambiguous_sites_version_2.0.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast,,pmid,
-unambiguous_sites_version_2.0.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast,,pmid,
+ambiguous_sites_version_2.0.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig,,pmid,
+unambiguous_sites_version_2.0.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig,,pmid,
 rat_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000632:Rat,,PMIDS,
 mouse_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000631:Mouse,,PMIDS,
 human_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000517:Human,,PMIDS,
