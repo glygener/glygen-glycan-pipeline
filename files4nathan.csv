@@ -48,3 +48,4 @@ unknown_34327564_glygen.csv,unicarbkb/current/,UniCarbKB,GLY_000040:Human|GLY_00
 fuzzy_legacy_qin_oglanac.csv,unicarbkb/current/,UniCarbKB,GLY_000040:Human|GLY_000041:Mouse|GLY_000221:Rat|GLY_000479:SARS-CoV-2|GLY_000628:HCoV-SARS,,pmid,
 unknown_34191522_glygen.csv,unicarbkb/current/,UniCarbKB,GLY_000040:Human|GLY_000041:Mouse|GLY_000221:Rat|GLY_000479:SARS-CoV-2|GLY_000628:HCoV-SARS,,Pmid,
 matrixdb_CORE.tab,matrixdb/current/,MatrixDB,,,Publication Identifier(s),We are interested in all GAG_* glycans
+glyconnect_chicken.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
