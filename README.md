@@ -18,6 +18,7 @@ Updates for 2.5 release:
 3. Added Pig dataset ID to OGlcNAcAtlas rows 
 4. Switched doi link from "Notes" to "PMID" column for glygen_upload.csv
 5. Updated ambiguous_sites.csv and unambiguous_sites.csv name and added chicken  
+6. Updated "PMID" header to "Publication" and provided corresponding key:value for entries with literature 
 
 Updates for 2.4 release:
 ------
