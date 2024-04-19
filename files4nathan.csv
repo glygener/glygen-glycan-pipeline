@@ -50,6 +50,6 @@ unknown_34191522_glygen.csv,unicarbkb/current/,UniCarbKB,GLY_000040:Human|GLY_00
 matrixdb_CORE.tab,matrixdb/current/,MatrixDB,,,Publication Identifier(s),We are interested in all GAG_* glycans
 glyconnect_chicken.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
 chicken_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000959:Chicken,,PMIDS,
-human_proteoform_glycosylation_sites_pdc.csv,pdc/current/,PDC,GLY_000961:Human,37074911,,"""Nglycan"" column needs to be mapped to GlyTouCan accession"
+ccRCC_TMT_intact_glycopeptide_abundance_MD-MAD.tsv,pdc/current/,PDC,GLY_000961:Human,37074911,,"""Nglycan"" column needs to be mapped to GlyTouCan accession"
 diabetes_glycomic_mapping.csv,export_files/current/,Gornik Lab,GLY_000960:Human,28905229,,"Row 44 with no GlyTouCan ID is the submission that is ""still processing"""
 Custom_MatrixDB_biomolecules.tsv,matrixdb/current/,MatrixDB,,,,provides information on GAG_* accessions
