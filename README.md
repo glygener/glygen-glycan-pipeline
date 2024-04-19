@@ -14,11 +14,10 @@ This repository contains file tracking information for the glycan data pipeline 
 Updates for 2.5 release:
 ------
 1. Updated UnicarbKB dataset IDs (GLY_000040:Human|GLY_000040:Mouse --> GLY_000040:Human|GLY_000041:Mouse)
-2. New download files added: matrixdb_CORE.tab, glyconnect_chicken.json
+2. New download files added: matrixdb_CORE.tab, glyconnect_chicken.json, chicken_o_glcnacome_mcw.csv, ccRCC_TMT_intact_glycopeptide_abundance_MD-MAD.tsv, diabetes_glycomic_mapping.csv, and Custom_MatrixDB_biomolecules.tsv
 3. Added Pig dataset ID to OGlcNAcAtlas rows 
-4. Added new files: chicken_o_glcnacome_mcw.csv, human_proteoform_glycosylation_sites_pdc.csv, diabetes_glycomic_mapping.csv, Custom_MatrixDB_biomolecules.tsv
-5. Switched doi link from "Notes" to "PMID" column for glygen_upload.csv
-6. Updated ambiguous_sites.csv and unambiguous_sites.csv name and added chicken  
+4. Switched doi link from "Notes" to "PMID" column for glygen_upload.csv
+5. Updated ambiguous_sites.csv and unambiguous_sites.csv name and added chicken  
 
 Updates for 2.4 release:
 ------
