@@ -1,7 +1,7 @@
 File Name,Path,Source,GlyGen Datasets,PMID,PMID field,Notes
 allbiomarkers-all.csv,biomarkerdb/current/,BiomarkerKB,GLY_000737:Human,,Literature evidence,
 carbbank.txt,carbbank/current/,CarbBank,GLY_000737:Human,,DB,Most entries do not have PMID just citation details
-glygen_upload.csv,embl/current/,EMBL,GLY_000888:Human|GLY_000889:Mouse,,,Data is from preprint doi.org/10.1101/2023.09.13.557529
+glygen_upload.csv,embl/current/,EMBL,GLY_000888:Human|GLY_000889:Mouse,DOI:10.1101/2023.09.13.557529,,
 glyconnect_mouse.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
 glyconnect_fruitfly.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
 glyconnect_human.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
@@ -17,8 +17,8 @@ glygen_protein_masterlist.csv,export_files/current/,GlyGen,,,,Reference file for
 glycosites.csv,gptwiki/current/,GPTwiki,GLY_000480:Human,,,
 T_Cell_O-GlcNAc_sites_CWoo_8-23-18.csv,harvard/current/,Harvard,GLY_000142:Human,29351928,,
 glycan_evidence_ncfg.csv,ncfg/current/,NCFG,GLY_000600:None,30745240,,Contains synthesized glycans
-ambiguous_sites_version_2.0.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig,,pmid,
-unambiguous_sites_version_2.0.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig,,pmid,
+ambiguous_sites.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig|GLY_000962:Chicken,,pmid,
+unambiguous_sites.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig|GLY_000962:Chicken,,pmid,
 rat_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000632:Rat,,PMIDS,
 mouse_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000631:Mouse,,PMIDS,
 human_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000517:Human,,PMIDS,
@@ -49,3 +49,7 @@ fuzzy_legacy_qin_oglanac.csv,unicarbkb/current/,UniCarbKB,GLY_000040:Human|GLY_0
 unknown_34191522_glygen.csv,unicarbkb/current/,UniCarbKB,GLY_000040:Human|GLY_000041:Mouse|GLY_000221:Rat|GLY_000479:SARS-CoV-2|GLY_000628:HCoV-SARS,,Pmid,
 matrixdb_CORE.tab,matrixdb/current/,MatrixDB,,,Publication Identifier(s),We are interested in all GAG_* glycans
 glyconnect_chicken.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
+chicken_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000959:Chicken,,PMIDS,
+human_proteoform_glycosylation_sites_pdc.csv,pdc/current/,PDC,GLY_000961:Human,37074911,,"""Nglycan"" column needs to be mapped to GlyTouCan accession"
+diabetes_glycomic_mapping.csv,export_files/current/,Gornik Lab,GLY_000960:Human,28905229,,"Row 44 with no GlyTouCan ID is the submission that is ""still processing"""
+Custom_MatrixDB_biomolecules.tsv,matrixdb/current/,MatrixDB,,,,provides information on GAG_* accessions
