@@ -17,8 +17,9 @@ Updates for 2.5 release:
 2. New download files added: matrixdb_CORE.tab, glyconnect_chicken.json, chicken_o_glcnacome_mcw.csv, ccRCC_TMT_intact_glycopeptide_abundance_MD-MAD.tsv, diabetes_glycomic_mapping.csv, and Custom_MatrixDB_biomolecules.tsv
 3. Added Pig dataset ID to OGlcNAcAtlas rows 
 4. Switched doi link from "Notes" to "PMID" column for glygen_upload.csv
-5. Updated ambiguous_sites.csv and unambiguous_sites.csv name and added chicken  
+5. Changed OGlcNAcAtlas file names from ambiguous_sites_version_2.0.csv and unambiguous_sites_version_2.0.csv to ambiguous_sites.csv and unambiguous_sites.csv, respectively. Added chicken  
 6. Updated "PMID" header to "Publication" and provided corresponding key:value for entries with literature 
+7. Changed BiomarkerKB file name and type from allbiomarkers-all.csv to allbiomarkers.tsv, updated "PMID field"
 
 Updates for 2.4 release:
 ------
