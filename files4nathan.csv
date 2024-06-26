@@ -17,8 +17,8 @@ glygen_protein_masterlist.csv,export_files/current/,GlyGen,,,,Reference file for
 glycosites.csv,gptwiki/current/,GPTwiki,GLY_000480:Human,,,
 T_Cell_O-GlcNAc_sites_CWoo_8-23-18.csv,harvard/current/,Harvard,GLY_000142:Human,PMID:29351928,,
 glycan_evidence_ncfg.csv,ncfg/current/,NCFG,GLY_000600:None,PMID:30745240,,Contains synthesized glycans
-ambiguous_sites.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig|GLY_000962:Chicken,,pmid,
-unambiguous_sites.csv,atlas_oglcnac/current/,OGlcNAcAtlas,GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig|GLY_000962:Chicken,,pmid,
+ambiguous_sites.csv,atlas_oglcnac/current/,OGlcNAcAtlas,"GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig|GLY_000962:Chicken,GLY_001050:Arabidopsis",,pmid,
+unambiguous_sites.csv,atlas_oglcnac/current/,OGlcNAcAtlas,"GLY_000708:Human|GLY_000709:Mouse|GLY_000710:Rat|GLY_000711:FruitFly|GLY_000800:Yeast|GLY_000955:Pig|GLY_000962:Chicken,GLY_001050:Arabidopsis",,pmid,
 rat_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000632:Rat,,PMIDS,
 mouse_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000631:Mouse,,PMIDS,
 human_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000517:Human,,PMIDS,
@@ -53,3 +53,9 @@ chicken_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000959:Chicken,,P
 ccRCC_TMT_intact_glycopeptide_abundance_MD-MAD.tsv,pdc/current/,PDC,GLY_000961:Human,PMID:37074911,,"""Nglycan"" column needs to be mapped to GlyTouCan accession"
 diabetes_glycomic_mapping.csv,export_files/current/,Gornik Lab,GLY_000960:Human,PMID:28905229,,"Row 44 with no GlyTouCan ID is the submission that is ""still processing"""
 Custom_MatrixDB_biomolecules.tsv,matrixdb/current/,MatrixDB,,,,provides information on GAG_* accessions
+arabidopsis_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_001049:Arabidopsis,,PMIDS,
+1-s2.0-S1535947624000070-mmc5.xlsx,user_submission/larance_1338/current,UserSubmission,,PMID: 38237698,,
+1-s2.0-S1535947624000070-mmc7.xlsx,user_submission/larance_1338/current/,UserSubmission,,PMID: 38237698,,
+glyconnect_arabidopsis.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
+PubChem_substance_compound.csv,snfg/current/,SNFG,,,,"for snfg xref file, see readme"
+sia-table2.tsv,snfg/current/,SNFG,,,,"for snfg xref file, see readme"
