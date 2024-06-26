@@ -54,8 +54,8 @@ ccRCC_TMT_intact_glycopeptide_abundance_MD-MAD.tsv,pdc/current/,PDC,GLY_000961:H
 diabetes_glycomic_mapping.csv,export_files/current/,Gornik Lab,GLY_000960:Human,PMID:28905229,,"Row 44 with no GlyTouCan ID is the submission that is ""still processing"""
 Custom_MatrixDB_biomolecules.tsv,matrixdb/current/,MatrixDB,,,,provides information on GAG_* accessions
 arabidopsis_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_001049:Arabidopsis,,PMIDS,
-1-s2.0-S1535947624000070-mmc5.xlsx,user_submission/platelet_o_linked/current/,UserSubmission,,PMID: 38237698,,
-1-s2.0-S1535947624000070-mmc7.xlsx,user_submission/platelet_o_linked/current/,UserSubmission,,PMID: 38237698,,
+1-s2.0-S1535947624000070-mmc5.xlsx,user_submission/platelet_o_linked/current/,UserSubmission,GLY_001051:Human,PMID: 38237698,,
+1-s2.0-S1535947624000070-mmc7.xlsx,user_submission/platelet_o_linked/current/,UserSubmission,GLY_001051:Human,PMID: 38237698,,
 glyconnect_arabidopsis.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
 PubChem_substance_compound.csv,snfg/current/,SNFG,,,,"for snfg xref file, see readme"
 sia-table2.tsv,snfg/current/,SNFG,,,,"for snfg xref file, see readme"
