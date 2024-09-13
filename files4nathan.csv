@@ -59,4 +59,4 @@ diabetes_glycomic_mapping.csv,export_files/current/,Gornik Lab,GLY_000960:Human,
 Custom_MatrixDB_biomolecules.tsv,matrixdb/current/,MatrixDB,,,,provides information on GAG_* accessions
 1-s2.0-S1535947624000070-mmc5.tsv,user_submission/platelet_o_linked/current/,UserSubmission,GLY_001051:Human,PMID: 38237698,,
 1-s2.0-S1535947624000070-mmc7.tsv,user_submission/platelet_o_linked/current/,UserSubmission,GLY_001051:Human,PMID: 38237698,,
-glycan_xref_mw.csv,mw/current/,MetabolomicsWorkbench,GLY_001169:None,,,"Please add the xref on your end. "
+mw_refmet_mapping_result.tsv,mw/current/,MetabolomicsWorkbench,GLY_001169:None,,,"Please add the xref on your end. "
