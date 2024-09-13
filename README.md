@@ -11,6 +11,12 @@ This repository contains file tracking information for the glycan data pipeline 
 |PMID field|Field where PMID can be located for files that contain records from multiple publications|
 |Notes|Misc notes field|
 
+Updates for 2.7 release:
+------
+1. Added glycan_xref_mw.csv - a new resource we are implementing that contains monosaccharide information. Please add the xrefs on your end. 
+2. Updated the user submitted data to tsv format: 1-s2.0-S1535947624000070-mmc5.tsv and 1-s2.0-S1535947624000070-mmc7.tsv
+3. Added bovine files for glyconnect, mcw, and dataset ID to OGlcNAcAtlas rows.
+
 Updates for 2.6 release:
 ------
 1. Please use the SNFG files (PubChem_substance_compound.csv and sia-table2.tsv) to create an SNFG xref file and map these SIDs/CIDs to GlyTouCan. These files also contain names, which you might be able to add to your names.tsv file. Ticket #843 has more information if needed.
