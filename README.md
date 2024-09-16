@@ -16,6 +16,7 @@ Updates for 2.7 release:
 1. Added mw_refmet_mapping_result.tsv - a new resource we are implementing that contains monosaccharide information. Please add the xrefs on your end. 
 2. Updated the user submitted data to tsv format: 1-s2.0-S1535947624000070-mmc5.tsv and 1-s2.0-S1535947624000070-mmc7.tsv
 3. Added bovine files for glyconnect, mcw, and dataset ID to OGlcNAcAtlas rows.
+4. The file previously named allbiomarkers.tsv has been renamed to oncomx.tsv. This change reflects the new organization by the BiomarkerKB team, which now separates their data by resource. The oncomx.tsv file will now include all protein and glycan biomarker data going forward.  
 
 Updates for 2.6 release:
 ------

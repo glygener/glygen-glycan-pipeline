@@ -1,5 +1,5 @@
 File Name,Path,Source,GlyGen Datasets,Publication,PMID field,Notes
-allbiomarkers.tsv,biomarkerdb/current/,BiomarkerKB,GLY_000737:Human,,evidence_source,
+oncomx.tsv,biomarkerdb/current/,BiomarkerKB,GLY_000737:Human,,evidence_source,
 carbbank.txt,carbbank/current/,CarbBank,GLY_000737:Human,,DB,Most entries do not have PMID just citation details
 glygen_upload.csv,embl/current/,EMBL,GLY_000888:Human|GLY_000889:Mouse,DOI:10.1101/2023.09.13.557529,,
 glyconnect_mouse.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
