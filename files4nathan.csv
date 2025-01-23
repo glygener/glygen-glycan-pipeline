@@ -13,6 +13,7 @@ glyconnect_pig.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructur
 glyconnect_arabidopsis.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
 glyconnect_chicken.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
 glyconnect_bovine.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
+glyconnect_hamster.json,glyconnect/current/,GlyConnectComposition|GlyConnectStructure,,,pmid,
 glycan_synthesized.csv,export_files/current/,GlyGen,GLY_000309:None,,evidence,Contains synthesized glycans
 human_proteoform_glycosylation_sites_o-gluc.csv,export_files/current/,GlyGen,GLY_000716:Human,PMID:34411563,,
 hcv1a_proteoform_glycosylation_sites_literature.csv,export_files/current/,GlyGen,GLY_000335:HCV-H,PMID:18187336,,
@@ -30,6 +31,7 @@ yeast_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000788:Yeast,,PMIDS
 chicken_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_000959:Chicken,,PMIDS,
 arabidopsis_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_001049:Arabidopsis,,PMIDS,
 bovine_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_001171:Bovine,,PMIDS,
+zebrafish_o_glcnacome_mcw.csv,mcw_oglcnac/current/,OGlcNAcDB,GLY_001250:Zebrafish,,PMIDS,
 known_legacy_dbogap_dbogap2_glygen.csv,unicarbkb/current/,UniCarbKB,GLY_000040:Human|GLY_000041:Mouse|GLY_000221:Rat|GLY_000479:SARS-CoV-2|GLY_000628:HCoV-SARS,,Pmid,
 known_34106099_glygen.csv,unicarbkb/current/,UniCarbKB,GLY_000040:Human|GLY_000041:Mouse|GLY_000221:Rat|GLY_000479:SARS-CoV-2|GLY_000628:HCoV-SARS,,Pmid,
 known_unicarbkb_glycomics_study.csv,unicarbkb/current/,UniCarbKB,GLY_000611:Human|GLY_000733:Rat,,pmid,
@@ -60,3 +62,6 @@ Custom_MatrixDB_biomolecules.tsv,matrixdb/current/,MatrixDB,,,,provides informat
 1-s2.0-S1535947624000070-mmc5.tsv,user_submission/platelet_o_linked/current/,UserSubmission,GLY_001051:Human,PMID: 38237698,,
 1-s2.0-S1535947624000070-mmc7.tsv,user_submission/platelet_o_linked/current/,UserSubmission,GLY_001051:Human,PMID: 38237698,,
 mw_refmet_mapping_result.tsv,mw/current/,MetabolomicsWorkbench,GLY_001169:None,,,"Please add the xref on your end. "
+filtered_glycoproteins_glycan_list.csv,datasets/compiled/,GlyCosmos,GLY_001251:Mouse,,,No PMID section. Provides glycosylation site information from GlycoProtDB. 
+TD10901054.txt,tablemaker/current,TableMaker,GLY_001253:FruitFly,,Evidence,
+TD1127346.txt,tablemaker/current,TableMaker,GLY_001252:Zebrafish,,Evidence,

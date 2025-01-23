@@ -11,6 +11,14 @@ This repository contains file tracking information for the glycan data pipeline 
 |PMID field|Field where PMID can be located for files that contain records from multiple publications|
 |Notes|Misc notes field|
 
+Updates for 2.8 release:
+------
+1. Added filtered_glycoproteins_glycan_list.csv - a resource retreived from GlyCosmos (only GlycoProtDB data isolated) that contains glycosylation site information. Given this file was modified, it lives in the following full path:/data/projects/glygen/generated/datasets/compiled/filtered_glycoproteins_glycan_list.csv. Please let me know if this poses any issues. 
+2. Added two TableMaker datasets: TD10901054.txt (fruitfly) and TD1127346.txt (zebrafish)
+3. Added hamster files for glyconnect. No zebrafish files available for this resource. 
+4. Added zebrafish files for MCW. No hamster files available for this resource. 
+5. Note: No zebrafish or hamster files available for O-Glcnac Atlas. Will update if/when data becomes available. 
+
 Updates for 2.7 release:
 ------
 1. Added mw_refmet_mapping_result.tsv - a new resource we are implementing that contains monosaccharide information. Please add the xrefs on your end. 
