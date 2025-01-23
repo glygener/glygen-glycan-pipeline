@@ -63,5 +63,5 @@ Custom_MatrixDB_biomolecules.tsv,matrixdb/current/,MatrixDB,,,,provides informat
 1-s2.0-S1535947624000070-mmc7.tsv,user_submission/platelet_o_linked/current/,UserSubmission,GLY_001051:Human,PMID: 38237698,,
 mw_refmet_mapping_result.tsv,mw/current/,MetabolomicsWorkbench,GLY_001169:None,,,"Please add the xref on your end. "
 filtered_glycoproteins_glycan_list.csv,datasets/compiled/,GlyCosmos,GLY_001251:Mouse,,,No PMID section. Provides glycosylation site information from GlycoProtDB. 
-TD10901054.txt,tablemaker/current,TableMaker,GLY_001253:FruitFly,,Evidence,
-TD1127346.txt,tablemaker/current,TableMaker,GLY_001252:Zebrafish,,Evidence,
+TD10901054.txt,tablemaker/current/,TableMaker,GLY_001253:FruitFly,,Evidence,
+TD1127346.txt,tablemaker/current/,TableMaker,GLY_001252:Zebrafish,,Evidence,
