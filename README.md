@@ -11,6 +11,14 @@ This repository contains file tracking information for the glycan data pipeline 
 |PMID field|Field where PMID can be located for files that contain records from multiple publications|
 |Notes|Misc notes field|
 
+Updates for 2.9 release:
+------
+NOTE: The TableMaker datasets are now in CSV format. I promise I will not make additional modifications to the file format moving forward.
+
+1. Updated dataset ID (file name) for TD10901054.txt to TD1468274.csv to reflect the change made on https://glygen.ccrc.uga.edu/tablemaker/. TableMaker team has also addressed the issue of the ID changing when a curator makes modifications to the table. 
+2. Added additional TableMaker datasets for human glycans TD1040297.csv, TD2415036.csv, TD2986138.csv, TD4951079.csv, TD7181079.csv, TD7732158.csv, TD8189974.csv, TD8741863.csv
+3. Added glycan tissue data from the GlycomeAtlas Dataset (glycosmos_glycomeatlas_list.csv) for human, mouse, and zebrafish. 
+
 Updates for 2.8 release:
 ------
 1. Added filtered_glycoproteins_glycan_list.csv - a resource retreived from GlyCosmos (only GlycoProtDB data isolated) that contains glycosylation site information. Given this file was modified, it lives in the following full path:/data/projects/glygen/generated/datasets/compiled/filtered_glycoproteins_glycan_list.csv. Please let me know if this poses any issues. 
