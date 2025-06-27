@@ -18,6 +18,7 @@ NOTE: The TableMaker datasets are now in CSV format. I promise I will not make a
 1. Updated dataset ID (file name) for TD10901054.txt to TD1468274.csv to reflect the change made on https://glygen.ccrc.uga.edu/tablemaker/. TableMaker team has also addressed the issue of the ID changing when a curator makes modifications to the table. 
 2. Added additional TableMaker datasets for human glycans TD1040297.csv, TD2415036.csv, TD2986138.csv, TD4951079.csv, TD7181079.csv, TD7732158.csv, TD8189974.csv, TD8741863.csv
 3. Added glycan tissue data from the GlycomeAtlas Dataset (glycosmos_glycomeatlas_list.csv) for human, mouse, and zebrafish. 
+4. Added RCSB PDB glycosylation data for Human (glycosites_rcsb_pdb.csv).
 
 Updates for 2.8 release:
 ------
