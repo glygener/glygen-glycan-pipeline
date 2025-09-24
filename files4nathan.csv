@@ -82,4 +82,4 @@ TD7680256.csv,tablemaker/current/,TableMaker,GLY_001408:Human,,Evidence,
 TD1131507.csv,tablemaker/current/,TableMaker,GLY_001408:Human,,Evidence,
 glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001412:Human,,xref_id,Note: The DOI was provided in instances where PMID not present. 
 glycosmos_glycomeatlas_list.csv,glycosmos/current/,GlyCosmos,GLY_001409:Human|GLY_001411:Mouse|GLY_001410:Zebrafish,,PMID,"May be useful to use ""DOI"" column instead as PMID only has a few entries"
-twinsuk_plasma_nglycan_mapping.tsv,twinsuk/current,TwinsUK,GLY_001461:Human,,PMID,
+twinsuk_plasma_nglycan_mapping.tsv,twinsuk/current/,TwinsUK,GLY_001461:Human,,PMID,
