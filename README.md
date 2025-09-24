@@ -11,6 +11,12 @@ This repository contains file tracking information for the glycan data pipeline 
 |PMID field|Field where PMID can be located for files that contain records from multiple publications|
 |Notes|Misc notes field|
 
+Updates for 2.10 release:
+------
+1. The file path for the PDB file (glycosites_rcsb_pdb.csv) has been updated to rcsb_pdb/current/. All available human data from this resource has also been updated for release 2.10.
+2. Seven additional glycan tissue expression datasets from TableMaker have been added. Please note that TD6640575.csv contains glycoproteomic data, and therefore its headers are arranged differently. These headers will remain consistent across all future glycoproteomic datasets provided by TableMaker. You can maintain the same format you've already been using for the glycomics data from TableMaker.
+3. A subset of rows from the TwinsUK dataset has been mapped to GlyTouCan IDs and included in this release. The remaining rows will be incorporated in release 2.11 once full mapping is complete.
+
 Updates for 2.9 release:
 ------
 NOTE: The TableMaker datasets are now in CSV format. I promise I will not make additional modifications to the file format moving forward.
