@@ -7,9 +7,15 @@ This repository contains file tracking information for the glycan data pipeline 
 |Path|Path from downloads folder|
 |Source|Data source/provider|
 |GlyGen Datasets|Dataset ID for evidence badges pointing to GlyGen dataset, used for sources without a url|
-|PMID|PubMed ID for files in which all entries are associated with one publication|
+|Publication|PubMed ID for files in which all entries are associated with one publication|
 |PMID field|Field where PMID can be located for files that contain records from multiple publications|
 |Notes|Misc notes field|
+
+Updates for 2.11 release:
+------
+1. Updated Dataset ID conventions for TableMaker: Dataset IDs now use the prefix TG to denote glycomics data and TP to denote glycoproteomics data. All column definitions and formats for both dataset types remain unchanged from previous iterations.
+2. Added GlycoShape glycan list: Introduced glycan_list.json, which contains only the GlyTouCan (GTC) accessions for all currently available GlycoShape glycan PDB files. All *.pdb glycan files are also available within the glycoshape/current/ folder if needed as well. 
+3. Updated TwinsUK data to include additional glycans from resource. The format for this dataset remains the same. 
 
 Updates for 2.10 release:
 ------
