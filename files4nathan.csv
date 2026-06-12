@@ -88,7 +88,7 @@ TG10381046.csv,tablemaker/current/,TableMaker,"GLY_001408:Human|GLY_001484:Hamst
 TG7130027.csv,tablemaker/current/,TableMaker,GLY_001408:Human,,Evidence,
 TP6077383.csv,tablemaker/current/,TableMaker,GLY_001408:Human,,Evidence,
 TP3222006.csv,tablemaker/current/,TableMaker,GLY_001538:BDBV|GLY_001539:EBOV,,Evidence,
-glycan_list.json,glycoshape/current/,GlycoShape,GLY_001491:None,PMID:39402214,,
+glycan_list.json,pdb_glycoshape/current/,GlycoShape,GLY_001491:None,PMID:39402214,,
 arabidopsis_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY:001504:Arabidopsis,,,See README 2.12 regarding PMID note
 bovine_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY:001505:Bovine,,,See README 2.12 regarding PMID note
 chicken_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001493:Chicken,,,See README 2.12 regarding PMID note
