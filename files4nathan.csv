@@ -63,7 +63,6 @@ Custom_MatrixDB_biomolecules.tsv,matrixdb/current/,MatrixDB,,,,provides informat
 1-s2.0-S1535947624000070-mmc7.tsv,user_submission/platelet_o_linked/current/,UserSubmission,GLY_001051:Human,PMID: 38237698,,
 mw_refmet_mapping_result.tsv,mw/current/,MetabolomicsWorkbench,GLY_001169:None,,,"Please add the xref on your end. "
 filtered_glycoproteins_glycan_list.csv,glycosmos/current/,GlyCosmos,GLY_001251:Mouse,,,No PMID section. Provides glycosylation site information from GlycoProtDB. 
-glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001412:Human,,xref_id,Note: The DOI was provided in instances where PMID not present. 
 glycosmos_glycomeatlas_list.csv,glycosmos/current/,GlyCosmos,GLY_001409:Human|GLY_001411:Mouse|GLY_001410:Zebrafish,,PMID,"May be useful to use ""DOI"" column instead as PMID only has a few entries"
 twinsuk_plasma_nglycan_mapping.tsv,twinsuk/current/,TwinsUK,GLY_001461:Human,,PMID,
 TG4253352.csv,tablemaker/current/,TableMaker,GLY_001408:Human,,Evidence,
@@ -86,4 +85,22 @@ TP6640575.csv,tablemaker/current/,TableMaker,GLY_001408:Human,,Evidence,
 TG1468274.csv,tablemaker/current/,TableMaker,GLY_001253:FruitFly,,Evidence,
 TG5577100.csv,tablemaker/current/,TableMaker,"GLY_001408:Human|GLY_001484:Hamster|GLY_001485:Mouse|GLY_001486:Rat|GLY_001487:Arabidopsis|GLY_001488:Dicty|GLY_001489:Chicken|GLY_001490:Pig|GLY_001494:Yeast|GLY_001497:Bovine|GLY_001253:FruitFly",,Evidence,
 TG10381046.csv,tablemaker/current/,TableMaker,"GLY_001408:Human|GLY_001484:Hamster|GLY_001487:Arabidopsis|GLY_001488:Dicty|GLY_001489:Chicken|GLY_001490:Pig|GLY_001494:Yeast|GLY_001497:Bovine|GLY_001253:FruitFly",,Evidence,
+TG7130027.csv,tablemaker/current/,TableMaker,GLY_001408:Human,,Evidence,
+TP6077383.csv,tablemaker/current/,TableMaker,GLY_001408:Human,,Evidence,
+TP3222006.csv,tablemaker/current/,TableMaker,GLY_001538:BDBV|GLY_001539:EBOV,,Evidence,
 glycan_list.json,glycoshape/current/,GlycoShape,GLY_001491:None,PMID:39402214,,
+arabidopsis_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY:001504:Arabidopsis,,,See README 2.12 regarding PMID note
+bovine_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY:001505:Bovine,,,See README 2.12 regarding PMID note
+chicken_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001493:Chicken,,,See README 2.12 regarding PMID note
+dicty_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001499:Dicty,,,See README 2.12 regarding PMID note
+fruitfly_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001495:FruitFly,,,See README 2.12 regarding PMID note
+hamster_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001506:Hamster,,,See README 2.12 regarding PMID note
+hcv1a_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001501:HCV1a,,,See README 2.12 regarding PMID note
+human_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001412:Human,,,See README 2.12 regarding PMID note
+mouse_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001498:Mouse,,,See README 2.12 regarding PMID note
+pig_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001500:Pig,,,See README 2.12 regarding PMID note
+rat_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001492:Rat,,,See README 2.12 regarding PMID note
+sarscov1_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001502:HCoV-SARS,,,See README 2.12 regarding PMID note
+sarscov2_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001503:SARS-CoV-2,,,See README 2.12 regarding PMID note
+yeast_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001496:Yeast,,,See README 2.12 regarding PMID note
+zebrafish_glycosites_rcsb_pdb.csv,rcsb_pdb/current/,PDB,GLY_001542:Zebrafish,,,See README 2.12 regarding PMID note

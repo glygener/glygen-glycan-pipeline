@@ -11,6 +11,12 @@ This repository contains file tracking information for the glycan data pipeline 
 |PMID field|Field where PMID can be located for files that contain records from multiple publications|
 |Notes|Misc notes field|
 
+Updates for 2.12 release:
+------
+1. Added three additional TableMaker datasets. Two new species introduced in TableMaker dataset TP3222006.csv for Ebola (Bundibugyo virus, taxid: 565995 [BDBV] and Zaire ebolavirus (strain Mayinga-76), taxid: 128952 [EBOV]).
+2. Removed glycosites_rcsb_pdb.csv and replaced with {species}_glycosites_rcsb_pdb.csv for all current GlyGen organisms. All headers in the new species files match the headers from the original glycosites_rcsb_pdb.csv file. 
+3. Please note that the latest PDB files no longer include a publication ID, as they are provided as 3D analytical files enriched with annotations.
+
 Updates for 2.11 release:
 ------
 1. Updated Dataset ID conventions for TableMaker: Dataset IDs now use the prefix TG to denote glycomics data and TP to denote glycoproteomics data. All column definitions and formats for both dataset types remain unchanged from previous iterations.
